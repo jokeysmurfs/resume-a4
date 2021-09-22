@@ -93,11 +93,12 @@ main.paper {
       padding: 1rem;
       object-fit: cover;
       height: 8.75rem;
-      -webkit-border-radius: 50%;
+      // -webkit-border-radius: 50%;
+      -webkit-border-radius: 10%;
       -moz-border-radius: 50%;
       -ms-border-radius: 50%;
       -o-border-radius: 50%;
-      border-radius: 50%;
+      // border-radius: 50%;
     }
 
     a i {
